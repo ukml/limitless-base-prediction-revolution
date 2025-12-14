@@ -9,29 +9,27 @@
 
 ## Why Limitless is the Farmer's Dream (Underdog vs Polymarket)
 Polymarket dominates long-term events (elections, $2B+ volume), but Limitless shines for **daily high-freq trades** — BTC/ETH/SOL prices, stocks, hourly markets with CLOB speed and no liquidations!
-**More Farmer Wins** (real community feedback):
-- "Switched from Polymarket — Limitless feels like Deribit on-chain, but with rewards! Daily flips pay off big." — Top leaderboard trader
-- "Season 2 points are stacking fast — team bonus turned my $500 volume into leaderboard spot!" — Active farmer
-- "Base fees so low, I farm with 5 wallets safely. LMTS airdrop was worth it!" — Multi-wallet grinder
-**Even More Farmer Love**:
-- "Limitless + Base = best combo for quick crypto bets. No funding fees, just pure profit potential!" — Daily trader
-- "Claimed Season 1 airdrop, grinding Season 2 — points system is fair and rewarding!" — Top 100 leaderboard
-- "Jesse knows what's up — Base prediction markets are the future!" — Community farmer
 
-Join the grind — Limitless rewards real traders!
-Limitless isn't just another market — it's farmer paradise on Base!
 **Real Farmer Love** (from community):
 - "Limitless turns perps pain into pure price ideas — fixed risk, known payout. Best for quick trades!" — DeFi trader
 - "Farming points Season 2 is easy — $200 volume qualifies, correct predictions boost allocation. Already claimed Season 1 airdrop!" — Active farmer
 - "Teams give 1.4x bonus, top trader 3K LMTS — multi-wallet friendly for real grinders." — Points hunter
 
-**2025 Stats** (exploding growth):
-- $515M+ cumulative volume, ~$3M daily
+**Latest 2025 Stats** (exploding growth):
+- $650M+ cumulative volume, ~$3M daily
+- $730K open interest (record high Dec 7)
 - 68K unique traders last month
-- LMTS token launched Oct 22 (airdrop claims open, 24.37% ecosystem rewards)
+- LMTS token live since Oct 22 (airdrop claims open, 24.37% ecosystem rewards; price dip to ~$0.1641 by Dec 15, but long-term upside)
 - Backed by Coinbase Ventures ($18M+ funding)
 
 Limitless > Polymarket for retail farmers: Faster, cheaper, reward-heavy on Base!
+
+## Recent Updates (Dec 2025)
+- **Case Study Buzz** (Dec 2): "From Top 1 on Base to Top 1 on Info Market" — Limitless's growth story highlighted in Wallchain report.
+- **Community Wins**: X exploding with "easy wins" (e.g., Man UTD vs Bournemouth bet at 53% odds), memes like "Predict on Limitless no matter the market!"
+- **Season 2 Grind**: Until Jan 26, 2026 (~$6M rewards) — farmers scaling multi-wallets safely.
+
+"Market bad? Predict on Limitless. Market good? Predict on Limitless. Infinite gains!" — X farmer meme
 
 ## Farmer Guide: How to Grind Limitless Daily
 Farmers are scaling here — low risk, high upside. Season 2 until Jan 26, 2026 (~$6M rewards)!
@@ -47,8 +45,24 @@ Farmers are scaling here — low risk, high upside. Season 2 until Jan 26, 2026 
 
 "Best prediction platform on Base — clean UI, real rewards!" — Community farmer
 
+## Staking LMTS: Extra Rewards for Farmers (Live Now!)
+Staking is **already active** (since Oct 2025) — over 11M LMTS staked (8.4% supply) earning ~57% APY + weekly buybacks (~$50K, removing 211K LMTS)!
+
+**Why Stake?**
+- Reduced trading fees
+- Points multipliers for Season 2
+- Exclusive perks & priority challenges
+- "Staking turned my daily trades into passive yields — best for long-term farmers!" — Community grinder
+
+**How to Stake**:
+1. Hold LMTS in wallet.
+2. Go to Limitless dashboard → Stake tab.
+3. Lock for rewards — compound for max gains!
+
+"Staking + trading = unstoppable farming on Base!" — Top staker
+
 ## The Huge Future
-Limitless could hit $1B+ volume by 2026 — Base's speed + farmer incentives = global DeFi takeover. Jesse sees the innovation!
+With Jesse's endorsement and Base's momentum, Limitless could hit $1B+ volume by 2026 — outpacing Polymarket in speed for retail/DeFi. Emerging alongside Talus AI, Noasight — Base's prediction wave is just starting!
 
 ## Call to Action
 - **Farm Now**: [Limitless Exchange](https://limitless.exchange)
@@ -61,9 +75,7 @@ Limitless isn't small forever — farm it while early! 🔥
 
 ---
 
-### Creator
-- **ukml** – Passionate @Base , @Limitless  builder 🌟
+### Visionary Creator
+- **ukml** – Passionate Base builder 🌟
 
 Follow for more farming guides!
- Add one more farmer comment or stat.
-
