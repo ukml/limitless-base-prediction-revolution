@@ -13,7 +13,12 @@ Polymarket dominates long-term events (elections, $2B+ volume), but Limitless sh
 - "Switched from Polymarket — Limitless feels like Deribit on-chain, but with rewards! Daily flips pay off big." — Top leaderboard trader
 - "Season 2 points are stacking fast — team bonus turned my $500 volume into leaderboard spot!" — Active farmer
 - "Base fees so low, I farm with 5 wallets safely. LMTS airdrop was worth it!" — Multi-wallet grinder
+**Even More Farmer Love**:
+- "Limitless + Base = best combo for quick crypto bets. No funding fees, just pure profit potential!" — Daily trader
+- "Claimed Season 1 airdrop, grinding Season 2 — points system is fair and rewarding!" — Top 100 leaderboard
+- "Jesse knows what's up — Base prediction markets are the future!" — Community farmer
 
+Join the grind — Limitless rewards real traders!
 Limitless isn't just another market — it's farmer paradise on Base!
 **Real Farmer Love** (from community):
 - "Limitless turns perps pain into pure price ideas — fixed risk, known payout. Best for quick trades!" — DeFi trader
